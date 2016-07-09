@@ -1,0 +1,31 @@
+
+Clientes:
+	Crear Cliente
+	Modificar Cliente
+	Eliminar Cliente
+	Consultar Cliente
+
+Citas:
+	Crear Cita
+	Modificar Cita
+	Borrar Cita
+	Consultar Cita
+	Enviar notificación de confirmación
+	Confirmar Cita
+	Ver calendario de citas
+
+Servicio:
+	Crera tipo de Servicio
+	Modificar el tipo de Servicio
+	Borrar tipo de servicio
+	Consultar tipo de Serivicio
+
+Lista de Espera
+	Mostrar Lista de Espera
+	Agregar cliente a la Lista de Espera
+	Borrar Cliente de la Lista de Espera
+
+Horario de Atencion:
+	Establecer Horario de Atención
+	Consultar Horario de Atención
+	
